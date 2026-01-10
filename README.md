@@ -1,94 +1,83 @@
-👋 Hi, I'm Bhavya Kushwaha
+# 👋 Hi, I'm Bhavya Kushwaha
 
-🎓 B.Tech CSE (Cloud Computing) @ VIT Bhopal
-🌍 Based in Noida, India
-📧 Email: bhavyakushwaha.work@gmail.com
+### 🎓 B.Tech CSE (Cloud Computing) Student @ VIT Bhopal
+**🌍 Based in Noida, India**
 
-🚀 About Me
+---
 
-I’m a passionate Computer Science student focused on Cloud Computing, Python development, and AI/ML fundamentals. I enjoy building real-world projects and continuously improving my skills through consistency and discipline.
+## 🚀 About Me
 
-Fun fact: I’m also deeply into armwrestling 🦾 — training strength, technique, and grip power!
+I’m a passionate Computer Science student focused on **Cloud Computing**, **Python development**, and **AI/ML fundamentals**. I enjoy building real-world projects and continuously improving my skills through consistency and discipline.
 
-🔧 Tech Stack & Skills
-Programming & Tech
+**Fun fact:** I’m also deeply into **armwrestling** 🦾 — training strength, technique, and grip power!
 
-Python 🐍
+---
 
-AI/ML Basics 🤖
+## 🔧 Tech Stack & Skills
 
-Cloud & IT Fundamentals ☁️
+### **Programming & Technologies**
+* **Languages:** Python 🐍
+* **Domains:** AI/ML Basics 🤖, Cloud & IT Fundamentals ☁️
+* **Tools:** Git, GitHub, Jupyter Notebooks
 
-Soft Skills
+### **Soft Skills**
+* Communication 🗣️
+* Problem Solving 🧩
+* Teamwork 🤝
+* Discipline 📅
 
-Communication
+### **Languages**
+* **Hindi** 🇮🇳 (Native)
+* **English** 🇬🇧 (Professional)
+* **Japanese** 🇯🇵 (JLPT N5)
 
-Problem Solving
+---
 
-Teamwork
+## 📌 Projects
 
-Discipline
+### 📥 Spam Protection System
+* Built a **Python-based spam detection model**.
+* Utilized **Machine Learning classification techniques** to identify spam.
+* Handled data preprocessing and accuracy optimization for better performance.
 
-Languages
+### 🩺 Diabetes Prediction System
+* Developed an **ML model to predict diabetes risk** based on health metrics.
+* Performed extensive **data analysis** and model evaluation.
 
-Hindi 🇮🇳
+---
 
-English 🇬🇧
+## 💪 Armwrestling Profile
 
-Japanese (JLPT N5) 🇯🇵
+I apply the same discipline to the gym as I do to coding. Currently focusing on **Grip Strength**, **Tendon Conditioning**, and **Endurance**.
 
-📌 Projects
-📥 Spam Protection System
+| **Lift Type** | **Record** |
+| :--- | :--- |
+| **Strict Pronation** | 28.5 kg |
+| **Wrist Curl** | 25 kg (15 reps) |
 
-Built a Python-based spam detection model
+> **Current Goal:** improving Technique Development and Muscle–Mind Connection.
 
-Used ML classification techniques
+---
 
-Handled preprocessing & accuracy optimization
+## 🏆 Certifications
 
-🩺 Diabetes Prediction System
+* 📜 **Python Programming** — Vityarthi Course
+* 📜 **Introduction to AI/ML** — Vityarthi Course
 
-Developed an ML model to predict diabetes risk
+---
 
-Performed data analysis & model evaluation
+## ✨ Current Goals
 
-🏆 Certifications
+I’m actively aiming to improve in:
+* ☁️ **Cloud Computing**
+* 🤖 **AI/ML**
+* 🐍 **Python Development**
+* 🛠️ **Building strong tech projects**
+* 🏆 **Competitive Armwrestling**
 
-Python Programming — Vityarthi Course
+---
 
-Introduction to AI/ML — Vityarthi Course
-
-💪 Armwrestling Profile
-
-Strength Levels:
-
-28.5 kg strict pronation lift
-
-25 kg wrist curl × 15 reps
-
-Training Areas:
-
-Grip Strength
-
-Tendon Conditioning
-
-Endurance
-
-✨ Goals
-
-I’m aiming to improve in:
-
-Cloud Computing
-
-AI/ML
-
-Python Development
-
-Building strong tech projects
-
-Competitive Armwrestling
-
-
-Technique Development
-
-Muscle–Mind Connection
+### 📫 Connect with Me
+* 📧 **Email:** [bhavyakushwaha.work@gmail.com](mailto:bhavyakushwaha.work@gmail.com)
+* 💼 **LinkedIn:** [Your LinkedIn URL]
+* 🐙 **GitHub:** [Your GitHub URL]
