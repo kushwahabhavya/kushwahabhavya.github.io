@@ -78,6 +78,9 @@ I’m actively aiming to improve in:
 ---
 
 ### 📫 Connect with Me
+### 📬 Connect with Me
+
 * 📧 **Email:** [bhavyakushwaha.work@gmail.com](mailto:bhavyakushwaha.work@gmail.com)
-* 💼 **LinkedIn:** https://www.linkedin.com/in/bhavya-kushwaha-4855283a5/
-* 🐙 **GitHub:** https://github.com/kushwahabhavya
+* 💼 **LinkedIn:** [Bhavya Kushwaha](https://www.linkedin.com/in/bhavya-kushwaha-4855283a5/)
+* 🐙 **GitHub:** [kushwahabhavya](https://github.com/kushwahabhavya)
+
